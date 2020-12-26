@@ -1,1 +1,1 @@
-print("hello world")
+from errorfix import *

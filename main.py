@@ -1,1 +1,2 @@
-from errorfix import *
+
+from tresureisland import *;

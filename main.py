@@ -1,2 +1,2 @@
+from bankerroulette import *;
 
-from tresureisland import *;

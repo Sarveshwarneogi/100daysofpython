@@ -1,2 +1,2 @@
-from treasuremap import *;
+from rpsgame import *;
 

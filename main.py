@@ -1,2 +1,2 @@
-from rpsgame import *;
+from avgheight import *;
 

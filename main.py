@@ -1,1 +1,1 @@
-from fizzbuzz import *;
+from password import *;

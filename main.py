@@ -1,1 +1,1 @@
-from password import *;
+from passwordgenerator import *;

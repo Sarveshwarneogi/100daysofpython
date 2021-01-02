@@ -33,7 +33,7 @@ for i in range(0,a):
   x=random.choice(p)
   pas=pas+x
   ind=p.index(x)
-  p.pop(ind)
+  del p[ind]
 
 print(pas)
 

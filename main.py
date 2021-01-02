@@ -1,1 +1,1 @@
-from passwordgenerator import *;
+from hangman import *;
